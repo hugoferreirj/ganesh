@@ -73,4 +73,3 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 bandit17: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 bandit18: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 bandit19: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
-bandit20: GbKksEFF4yrVs6il55v6gwY5aVje5f0j #não é a password
