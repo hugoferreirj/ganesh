@@ -1,0 +1,84 @@
+aNNn5_{13TT5s0UR1}G40h5LePR
+
+Transposição colunar
+Pafuntilo
+Ganesh{TR
+4N5P051T1
+0N_RUL35}
+
+Ganesh{TR4N5P051T10N_RUL35}
+
+Pafuntilo
+aNNn5_{13
+TT5s0UR1}
+G40h5LePR
+
+caracteres com repetição em cada coluna de Pafuntilo:
+P: 
+a:
+f:
+u:
+n: 5
+t: 
+i: 
+l: 1
+o:
+
+supondo que 5 seja A em n, o deslocamento seria de: 12, que resultaria na coluna n como:
+A 
+<
+A 
+
+levando em conta o caractere <, talvez nn seja a resposta
+
+supondo que 5 seja E em n, o deslocamento seria de: 16, que resultaria na coluna n como:
+E
+@
+E
+
+levando em conta o caractere @, talvez nn seja a resposta
+
+supondo que 5 seja O em n, o deslocamento seria de: 26, que resultaria na coluna n como:
+O
+J
+O
+
+supondo que 5 seja a em n, o deslocamento seria de: 44, que resultaria na coluna n como:
+a
+\
+a 
+
+supondo que 5 seja e em n, o deslocamento seria de: 48, que resultaria na coluna n como:
+e
+`
+e
+
+supondo que 5 seja o em n, o deslocamento seria de: 58, que resultaria na coluna n como:
+o
+j
+o
+
+supondo que 1 seja A em l, o deslocamento seria de: 16, que resultaria na coluna n como:
+A 
+A
+`
+
+supondo que 1 seja E em l, o deslocamento seria de: 20, que resultaria na coluna n como:
+E 
+E
+d
+
+supondo que 1 seja O em l, o deslocamento seria de: 30, que resultaria na coluna n como:
+O
+O
+n
+
+supondo que 1 seja a em l, o deslocamento seria de: 48, que resultaria na coluna n como:
+caracteres invalidos
+
+supondo que 1 seja e em l, o deslocamento seria de: 52, que resultaria na coluna n como:
+caracteres invalidos
+
+supondo que 1 seja o em l, o deslocamento seria de: 62, que resultaria na coluna n como:
+caracteres invalidos
+ 
