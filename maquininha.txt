@@ -1,0 +1,36 @@
+Mensagem:
+Zkhubyds! U fbkg oh chifjyyhckssu.
+12345678  9 0123 45 6789012345678
+letras que se mantem:
+____b__s  _ f__g _h c_i____h__ss_
+Parabens  a flag eh criptoehmassa
+
+conjunto especial: B, S, F, G, H, C, I
+
+CIPHER PLAIN
+U	 A
+Q	 G
+J	 T
+K	 A
+B	 L	
+D	 N
+Y	 E
+Y	 O
+Z	 P
+H	 R
+C	 M
+F	 P	
+Letras com o mesmo resto qnd divididas por 10:
+0 J T
+1 A K U
+2 B L V
+3 C M W
+4 D N X
+5 E O Y
+6 F P Z
+7 G Q
+8 H R
+9 I S
+
+conjunto especial: B, S, F, G, H, C, I
+
