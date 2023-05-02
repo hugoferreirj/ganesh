@@ -1,0 +1,6 @@
+71 97 110 101 115 104 123 97 115 99 105 105 95 114 101 105 110 97 125
+
+a mensagem está codificada em decimal.
+decodificando:
+
+Ganesh{ascii_reina}
