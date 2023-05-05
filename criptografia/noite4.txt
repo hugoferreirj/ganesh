@@ -1,0 +1,7 @@
+ A flag está no formato Ganesh{a_dica_eh_****}
+
+O nome estrangeiro é vasco von ponpair man
+considerando que a dica anterior falava para se atentar ao meio do ímpar, podemos verificar que todas as palavras do nome possuem um número ímpar de letras. Pegando apenas a letra do meio de cada palavra obtemos a palavra SOPA:
+vaSco vOn ponPair mAn
+
+Ganesh{a_dica_eh_sopa}
