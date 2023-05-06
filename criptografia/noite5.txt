@@ -1,0 +1,8 @@
+Lsbok ib gmogds qdnggro, vsxxwa p LMN se kips usaak oreko t faejee orojrpdgg p ngwie
+
+A dica é SOPA. Acredito que se trate de uma cifra de Vigenere onde SOPA é a chave:
+Testando:
+Temos um guarda conosco, deixem a LUZ de suas celas acesa e fiquem acordados a noite
+
+Então:
+Ganesh{a_dica_eh_LUZ}
