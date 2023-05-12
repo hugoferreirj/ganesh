@@ -1,1 +1,15 @@
 L ztgf mkrs lfjl, qxq q qmbq rbagc mh pajsaj v lafpzus r mcdhg, ps wzgsavfr gf tnhxo, tagifslb vrgnc ewgfvw Frvfid.
+
+a dica do desafio anterior era LUZ, então, vamos testar cifra de vigenere com a chave LUZ:
+A fuvl nzxt alka, wyf w rbhr ghbvi nw vbyyby b mplqoat g sdsnh, ey xomtpbgg mg itimu, upmjuymq bsvtd tchubx Uxwuoe.
+
+Não é
+
+Veruficando letras que poderiam ser vogais:
+L, Q, V, R, M/H, P/S, G/F
+como o número de possível vogais é mais que 5 não se trata de substituição simples
+
+Se trata de uma Autokey, onde a chave inicial é LUZ:
+A fuga sera hoje, com o cano rompo as barras e liberto a todos, me encontre no patio, assinado vosso mestre Martim.
+
+Ganesh{o_lider_eh_Martim}
