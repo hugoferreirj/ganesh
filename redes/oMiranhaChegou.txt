@@ -1,0 +1,6 @@
+descobrir portas abertas:
+nc -zv localhost 1-9999 2>&1 | grep succeeded
+
+Connection to localhost (127.0.0.1) 2362 port [tcp/*] succeeded!
+
+Ganesh{sp1d3r_ag4in5t_w3b}
